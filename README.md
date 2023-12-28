@@ -1,8 +1,13 @@
 <h4>A Facial Recognition Attendance System with time tracking is a comprehensive solution that combines facial detection, recognition, and attendance recording along with timestamp information. Here's a detailed description of how such a system typically operates:
 </h4>
-<h1>Add faces to the database</h1>
+<h1>Add faces</h1>
 Firstly,We add the faces of 100 pictures and then it store in the data base.
+
+![Sample1](https://github.com/anjaliisonii/Facial_Recognition-Attendence-System/assets/95306164/3fd74ec2-46b8-4c53-bbe6-65018ed3b784)
+
 <h1>Facial Detection Test</h1>
+  
+
 
 As individuals approach the attendance system, cameras equipped with facial detection capabilities capture images of their faces. The system identifies and extracts facial features from these images.
 <h1>Feature Extraction:</h1>
@@ -18,6 +23,8 @@ If a match is successful, indicating the recognition of the individual, the syst
 
 The attendance information is integrated in real-time with attendance management software or databases. This integration allows for immediate updates and easy access to attendance records.
 <h1>Logging and Reporting:</h1>
+
+![sample2](https://github.com/anjaliisonii/Facial_Recognition-Attendence-System/assets/95306164/37736feb-0e4e-4e8a-bc6e-6f29571c96c7)
 
 The system logs all attendance events, including the individual's identity, timestamp, and any relevant metadata. Reports can be generated for administrators or HR personnel, providing insights into attendance patterns and trends.
 
