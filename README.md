@@ -1,7 +1,7 @@
 <h4>A Facial Recognition Attendance System with time tracking is a comprehensive solution that combines facial detection, recognition, and attendance recording along with timestamp information. Here's a detailed description of how such a system typically operates:
 </h4>
 <h1>Add faces</h1>
-Firstly,We add the faces of 100 pictures and then it store in the data base.
+Firstly,We add the faces count of 100 pictures and then it stored which help in recognization.
 
 ![Sample1](https://github.com/anjaliisonii/Facial_Recognition-Attendence-System/assets/95306164/3fd74ec2-46b8-4c53-bbe6-65018ed3b784)
 
